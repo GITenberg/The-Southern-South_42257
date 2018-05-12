@@ -1,0 +1,37 @@
+_repo: The-Southern-South_42257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42257-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hart, Albert Bushnell
+    alias: Hart, A. B. (Albert Bushnell)
+    birthdate: 1854
+    deathdate: 1943
+    gutenberg_agent_id: '2196'
+    url: http://www.gutenberg.org/2009/agents/2196
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bushnell_Hart
+description: ''
+gutenberg_issued: '2013-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42257'
+  lccn: '10011897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'United States -- Race relations'
+- !lcsh 'Southern States -- Social conditions'
+tableOfContents: Materials -- The Southland -- The poor white -- Immigration -- Southern
+  leadership -- Southern temperament -- Attitude toward history -- Negro character
+  -- Negro life -- The Negro at work -- Is the Negro rising? -- Race association --
+  Race separation -- Crime and its penalties -- Lynching -- Actual wealth -- Comparative
+  wealth -- Making cotton -- Cotton hands -- Peonage -- White education -- Negro education
+  -- Objections to education -- Postulates of the problem -- The wrong way out --
+  Material and political remedies -- Moral remedies.
+title: The Southern South
+url: http://www.gutenberg.org/ebooks/42257
