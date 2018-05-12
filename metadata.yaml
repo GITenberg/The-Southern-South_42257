@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2196
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bushnell_Hart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42257#The-Southern-South
 gutenberg_issued: '2013-03-04'
 gutenberg_type: Text
 identifiers:
